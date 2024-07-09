@@ -16,6 +16,4 @@ Halaman Owner
 username = owner
 password = owner
 
-#gimme more stars :)
-
 
